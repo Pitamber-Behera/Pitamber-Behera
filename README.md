@@ -11,7 +11,8 @@ Here are some ideas to get you started:-->
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 - 📫 How to reach me: pitamberbehera521@gmail.com
-⚡ I am a MERN stack developer.
 
-🔗 Check out my [GitHub profile](https://github.com/Pitamber-Behera).
+- ⚡ I am a MERN stack developer.
+
+- 🔗 Check out my [GitHub profile](https://github.com/Pitamber-Behera).
 
